@@ -1,4 +1,5 @@
 Image Stitching with OpenCV
+
 This simple project showcases an OpenCV function that stitches multiple images together to create a panorama view. The tutorial link from which this is referred is linked here: 
 
 Basically, how image stitching works is by detecting the keypoints and extracting the local invariant descriptors like SIFT. You can check out my Medium article here on SIFT or other feature descriptors.
